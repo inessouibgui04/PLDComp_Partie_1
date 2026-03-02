@@ -1,0 +1,4 @@
+compiler/config.mk
+*.exe
+/build
+/generated
